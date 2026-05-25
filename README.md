@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrews Gnanaselvin D</h1>
 
 <h3 align="center">
-AI Enthusiast • Web Developer • Cloud Learner
+AI Enthusiast • Web Developer • Networks
 </h3>
 
 <p align="center">
