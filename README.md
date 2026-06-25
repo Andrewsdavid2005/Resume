@@ -1,135 +1,215 @@
-<h1 align="center">Hi 👋, I'm Andrews Gnanaselvin D</h1>
+<h1 align="center">Hi, I'm Andrews GnanaSelvin D</h1>
 
 <h3 align="center">
-AI Enthusiast • Web Developer • Networks
+Computer Science & Engineering Student | AI Enthusiast | Flutter Developer | Network Engineer
 </h3>
 
 <p align="center">
-🎓 Computer Science Engineering Student <br>
-🏆 Smart India Hackathon 2025 Finalist <br>
-📍 Tamil Nadu, India
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+Developer;Flutter+Developer;Web+Developer;Network+Engineering+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently learning **AI, DevOps & Cloud Technologies**
-- 💡 Interested in **Web Development, Network Engineering & Machine Learning**
-- 🔥 Passionate about solving real-world problems using technology
-- 🤝 Love teamwork, innovation, and hackathons
+B.E. Computer Science and Engineering
+
+Karpagam Institute of Technology
+
+Smart India Hackathon 2025 Finalist
+
+Currently Learning
+- Artificial Intelligence
+- Flutter Development
+- Cloud Computing
+- Networking
+
+Ask me about
+- Python
+- Java
+- Flutter
+- Firebase
+- Supabase
+- Machine Learning
+
+Email
+
+**andrewsdavidnov@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+# Connect with Me
 
-### 💻 Languages
+<p align="left">
+<a href="https://www.linkedin.com/in/andrews-gnana-selvin-d">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Andrewsdavid2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# Tech Stack
+
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 ---
 
-### 🗄️ Database & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Cloud
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 ---
 
-## 🚀 Projects
+# Featured Projects
 
-### 🌾 AI-Based Crop Recommendation for Farmers (SIH)
-- AI-powered crop recommendation using soil (NPK) and seasonal analysis
-- Voice input and multilingual support for farmers
-- **Tech:** Python, ML, Flutter, Firebase
+## AI-Based Crop Recommendation for Farmers (SIH)
 
----
+- AI-powered crop recommendation using soil nutrients (NPK, pH).
+- Offline-first architecture.
+- Voice support.
+- Multi-language interface.
 
-### 🎮 Gamified Learning Environment
-- Interactive learning platform with rewards and progress tracking
-- Integrated ML Kit and Supabase backend
-- **Tech:** Python, HTML, CSS, JavaScript, Supabase
+**Tech Stack**
 
----
-
-### 📂 Data Download Duplication Alert System
-- Duplicate file detection using MD5 & SHA-256 hashing
-- Reduced redundant storage and improved efficiency
-- **Tech:** Python, SQLite
+Python • Machine Learning • Flutter • Firebase
 
 ---
 
-## 🏆 Achievements
+## Gamified Learning Environment
 
-- 🥇 Smart India Hackathon 2025 – Finalist
-- 🌍 Taiwan Hackathon – Certificate of Merit
-- 🎤 International Conference Participant – KIT
+- Gamified learning platform
+- Google ML Kit
+- Supabase Authentication
+- Android SDK 36
+
+**Tech Stack**
+
+Flutter • Dart • Supabase • ML Kit
 
 ---
 
-## 📜 Certifications
+## Data Download Duplication Alert System
+
+- Detect duplicate downloads
+- MD5 & SHA-256 Hashing
+- SQLite Database
+
+**Tech Stack**
+
+Python • SQLite
+
+---
+
+# Achievements
+
+Smart India Hackathon 2025 Finalist
+
+Taiwan Hackathon – Certificate of Merit
+
+International Conference Participant
+
+---
+
+# Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
 - AWS Cloud Foundations
-- Machine Learning – Simplilearn
+- Cisco Networking Essentials
+- Simplilearn Machine Learning
 - Deloitte Data Analytics Simulation
-- NPTEL – Software Testing
-- CISCO Networking Certifications
+- NPTEL Software Testing
 
 ---
 
-## 💼 Internship Experience
-
-### 💻 SoftwareTech Solutions
-Web Development Intern — Feb 2024
-
-### 🖥️ ABM IT Support
-IT Intern — Aug 2024
-
-### 🤖 Galwin Technology
-AI & Data Science Intern — May 2025
-
----
-
-## 📊 GitHub Stats
-
-![Andrews's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrewsdavid2005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsdavid2005&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Portfolio Website
-
-[Visit My Portfolio](https://andrewsdavid2005.github.io/portfolio/)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: andrewsdavidnov@gmail.com
-- 🔗 GitHub: https://github.com/Andrewsdavid2005
-
----
+# GitHub Stats
 
 <p align="center">
-⭐ <i>Learn • Build • Innovate • Repeat</i>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrewsdavid2005&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsdavid2005&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewsdavid2005&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andrewsdavid2005&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrewsdavid2005&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Andrewsdavid2005&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+ Thanks for visiting my GitHub Profile 
+</h3>
