@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Andrews GnanaSelvin D</h1>
 
 <h3 align="center">
-Computer Science & Engineering Student | AI Enthusiast | Flutter Developer | Network Engineer
+Computer Science & Engineering Student | AI Enthusiast | Network Engineer | Cloud & Devops
 </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+Developer;Flutter+Developer;Web+Developer;Network+Engineering+Enthusiast;Always+Learning+New+Technologies" />
-</p>
 
 ---
 
